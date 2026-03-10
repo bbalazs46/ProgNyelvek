@@ -1,3 +1,3 @@
 public void main() {
-    System.out.println("alma");
+    System.out.println("alma2");
 }
